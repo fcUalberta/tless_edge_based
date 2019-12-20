@@ -12,8 +12,8 @@ Part 1: Creation of Initial Augmented Data
   - Image Data Acquisition
   - Obtaining ground truth data
   - Data Balancing and Augmentation
-    –Manual - Image Processing Techniques
-    –Automatic – Augmentor API
+    – Manual - Image Processing Techniques
+    – Automatic – Augmentor API
     
 Part 2: Creation of 14 new datasets for feature comparison
   - Creation of Feature Only Dataset
