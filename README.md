@@ -63,7 +63,7 @@ Part 3: Training and Testing on Multiple Classifiers
 
 ![GitHub Logo](/images_for_readme/features.jpg)
 
-### Part 2 : Single feature/Feature Combination on RGB images
+### Part 2 : Single feature/Feature Combination on RGB images dataset
 
 ![GitHub Logo](/images_for_readme/overlay.jpg)
 
