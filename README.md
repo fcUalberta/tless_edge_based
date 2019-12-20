@@ -14,11 +14,13 @@ Part 1: Creation of Initial Augmented Data
   - Data Balancing and Augmentation
     –Manual - Image Processing Techniques
     –Automatic – Augmentor API
+    
 Part 2: Creation of 14 new datasets for feature comparison
   - Creation of Feature Only Dataset
   - Creation of Feature Combinations
   - Creation of Feature Enhanced RGB Dataset
   - Creation of Feature Combination Enhanced RGB Dataset
+  
 Part 3: Training and Testing on Multiple Classifiers
 
 ## Project Structure
