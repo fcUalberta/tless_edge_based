@@ -73,8 +73,9 @@ Part 3: Training and Testing on Multiple Classifiers
 - HED: https://arxiv.org/abs/1504.06375
 
 ### Reference scripts:
--	Image segmentation and bounding box : https://matplotlib.org/api/_as_gen/matplotlib.axes.Axes.add_patch.html#matplotlib.axes.Axes.add_patch
+-	Image segmentation and bounding box : https://scikit-image.org/docs/dev/auto_examples/segmentation/plot_label.html
 -	Edge Operators: https://medium.com/@nikatsanka/comparing-edge-detection-methods-638a2919476e
+- HED: https://www.pyimagesearch.com/2019/03/04/holistically-nested-edge-detection-with-opencv-and-deep-learning/ 
 -	Augmentor API: https://github.com/mdbloice/Augmentor 
 -	Training Testing: Scikit- learn
 
