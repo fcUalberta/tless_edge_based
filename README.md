@@ -7,7 +7,7 @@ Textureless object recognition has become a significant task in Computer Vision 
 
 In this project, by applying image processing techniques we created a robust augmented dataset from initial imbalanced smaller dataset. We extracted edge features, feature combinations and all its combination on the RGB dataset to create 15 datasets, each with a size of ~340,000. We then trained four classifiers on these 15 datasets to arrive at a conclusion as to which dataset performs the best overall and whether edge features are important for textureless objects. Based on our experiments and analysis, RGB images enhanced with combination of 3 edge features performed the best compared to all other. Model performance on dataset with HED edges performed comparatively better than other edge detectors like Canny or Prewitt. 
 
-[Link to full Research Report] (https://github.com/fcUalberta/tless_edge_based/blob/master/Industrial%20Textureless%20Object%20Recognition.pdf)
+[Link to full Research Report](https://github.com/fcUalberta/tless_edge_based/blob/master/Industrial%20Textureless%20Object%20Recognition.pdf)
 
 ## Implementation structure
 Part 1: Creation of Initial Augmented Data
